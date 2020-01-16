@@ -38,8 +38,7 @@ API: [https://dog.ceo/dog-api](https://dog.ceo/dog-api)
 
 ### Общие требования
 * Верстка точно по макету без использования css-фреймворков
-* Проект должен быть выполнен на основе скелета [https://github.com/vuejs-templates/webpack](https://github.com/vuejs-templates/webpack)
-* Использование ESLint (standard) обязательно
+* Проект создан с помощью Vue CLI с пресетом по умолчанию [https://github.com/vuejs/vue-cli](https://github.com/vuejs/vue-cli)
 * Вся логика работы с API находится во Vuex
 * Допустимые к использованию библиотеки только vue, vuex, vue-router, axios
 * Исходный код проекта должен быть выложен на GitHub.
