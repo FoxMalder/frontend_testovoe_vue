@@ -38,6 +38,7 @@ API: [https://dog.ceo/dog-api](https://dog.ceo/dog-api)
 
 ### Общие требования
 * Верстка точно по макету без использования css-фреймворков
+* Hover-эффекты и прочий интерактив на ваше усмотрение
 * Проект создан с помощью Vue CLI с пресетом по умолчанию [https://cli.vuejs.org/guide/creating-a-project.html](https://cli.vuejs.org/guide/creating-a-project.html)
 * Вся логика работы с API находится во Vuex
 * Допустимые к использованию библиотеки только vue, vuex, vue-router, axios
