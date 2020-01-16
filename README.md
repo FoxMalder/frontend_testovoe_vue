@@ -38,7 +38,7 @@ API: [https://dog.ceo/dog-api](https://dog.ceo/dog-api)
 
 ### Общие требования
 * Верстка точно по макету без использования css-фреймворков
-* Проект создан с помощью Vue CLI с пресетом по умолчанию [https://github.com/vuejs/vue-cli](https://github.com/vuejs/vue-cli)
+* Проект создан с помощью Vue CLI с пресетом по умолчанию [https://cli.vuejs.org/guide/creating-a-project.html](https://cli.vuejs.org/guide/creating-a-project.html)
 * Вся логика работы с API находится во Vuex
 * Допустимые к использованию библиотеки только vue, vuex, vue-router, axios
 * Исходный код проекта должен быть выложен на GitHub.
