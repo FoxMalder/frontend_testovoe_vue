@@ -1,5 +1,5 @@
 ### Тестовое задание
-#### на позицию "Front-end developer (Junior/Middle, Vue.js)" в Lebedev Studio
+#### на позицию "Front-end developer (Middle/Senior, Vue.js)" в iCall
 
 
 &nbsp;
@@ -11,7 +11,7 @@
 Разработать SPA-приложение с использованием `Vue` + `Vuex` + `Vue router`.  
 Приложение должно получать данные из API и выводить их в клиентскую часть.  
 API: [https://dog.ceo/dog-api](https://dog.ceo/dog-api)  
-Макет: [https://www.figma.com/file/qikieeE86iZxUzdj4TpwJM/frontend_test](https://www.figma.com/file/qikieeE86iZxUzdj4TpwJM/frontend_test)
+Макет-пример: [https://www.figma.com/file/qikieeE86iZxUzdj4TpwJM/frontend_test](https://www.figma.com/file/qikieeE86iZxUzdj4TpwJM/frontend_test)
 
 
 &nbsp;
@@ -20,7 +20,6 @@ API: [https://dog.ceo/dog-api](https://dog.ceo/dog-api)
 * Отображает список изображений всех собак (по умолчанию в рандомном порядке).
 * Сверху находится переключатель с рандомного порядка фото на алфавитный.
 * По стандарту должно отображаться 20 изображений и реализован бесконечный скролл с подгрузкой следующих 20 изображений.
-* Первое фото в списке большое, на три колонки в ширину.
 
 &nbsp;
 
@@ -32,13 +31,13 @@ API: [https://dog.ceo/dog-api](https://dog.ceo/dog-api)
 &nbsp;
 
 ### Избранное
-Каждое изображение можно лайкнуть (иконка сердца), после чего эти изображения можно будет увидеть на странице **app.ru/favourites**. Информация о лайкнутых фото должна находиться в хранилище браузера.
+Каждое изображение можно лайкнуть (иконка сердца), после чего эти изображения можно будет увидеть на странице **app.ru/favourites**. Информация о лайкнутых фото должна находиться в хранилище браузера. При перезагрузке страницы лайкнутые фото не должны пропадать.
 
 &nbsp;
 
 ### Общие требования
-* Верстка точно по макету без использования css-фреймворков
-* Hover-эффекты и прочий интерактив на свое усмотрение
+* Макет дан для примерного понимания интерфейса. Можно сверстать его, а можно на свой вкус.
+* Верстка без использования css-фреймворков типа bootstrap, только чистый SCSS/SASS/LESS
 * Проект создан с помощью Vue CLI с пресетом по умолчанию [https://cli.vuejs.org/guide/creating-a-project.html](https://cli.vuejs.org/guide/creating-a-project.html)
 * Использование ESLint standart обязательно
 * Вся логика работы с API находится во Vuex
