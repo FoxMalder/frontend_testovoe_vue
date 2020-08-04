@@ -1,5 +1,5 @@
 ### Тестовое задание
-#### на позицию "Front-end developer (Middle/Senior, Vue.js)" в iCall
+#### на позицию "Front-end developer (Middle/Senior, Vue.js)"
 
 
 &nbsp;
